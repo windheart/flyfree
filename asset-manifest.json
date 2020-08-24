@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/flyfree/static/js/main.b374a575.chunk.js",
+    "main.js.map": "/flyfree/static/js/main.b374a575.chunk.js.map",
+    "runtime-main.js": "/flyfree/static/js/runtime-main.1231bbd8.js",
+    "runtime-main.js.map": "/flyfree/static/js/runtime-main.1231bbd8.js.map",
+    "static/js/2.9cf2a968.chunk.js": "/flyfree/static/js/2.9cf2a968.chunk.js",
+    "static/js/2.9cf2a968.chunk.js.map": "/flyfree/static/js/2.9cf2a968.chunk.js.map",
+    "index.html": "/flyfree/index.html",
+    "precache-manifest.c74c3c0e169aec1571ffc2bf919c2f2f.js": "/flyfree/precache-manifest.c74c3c0e169aec1571ffc2bf919c2f2f.js",
+    "service-worker.js": "/flyfree/service-worker.js",
+    "static/js/2.9cf2a968.chunk.js.LICENSE.txt": "/flyfree/static/js/2.9cf2a968.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1231bbd8.js",
+    "static/js/2.9cf2a968.chunk.js",
+    "static/js/main.b374a575.chunk.js"
+  ]
+}
